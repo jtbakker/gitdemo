@@ -1,4 +1,9 @@
 This is the second file
+<<<<<<< HEAD
 It is created locally 
 Creator: Jacob
+=======
+It is created online
+Creator: Jacob 
+>>>>>>> 0808193ab6686802a64b177d398f1f324a740e47
 All Rights Reserved
